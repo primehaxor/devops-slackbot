@@ -1,4 +1,5 @@
 # devops-slackbot
+A slackbot to retrieve the newest news to keep you update about the devops news, of couse that you can use it for another topics if you want to :)
 
 ## Slack token
 1. Request your slack token here -> https://api.slack.com/custom-integrations/legacy-tokens
