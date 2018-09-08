@@ -1,0 +1,17 @@
+blogs:
+ - https://kubernetes.io/feed.xml
+ - https://prometheus.io/blog/feed.xml
+ - https://blog.xebialabs.com/feed/
+ - https://www.devopsguys.com/feed/
+ - https://coreos.com/blog/feed
+ - http://blog.kubernetes.io/feeds/posts/default
+ - https://devopscube.com/feed/
+ - https://devops.com/feed/
+ - https://blog.docker.com/feed/
+ - https://itrevolution.com/devops-blog/feed/
+ - http://feeds.dzone.com/devops
+ - https://stackify.com/content/DevOps/feed/
+
+# you can retrieve your slack_token here -> https://api.slack.com/custom-integrations/legacy-tokens
+slack_token: 'xoxp-'
+slack_channel: 'devops-news'
